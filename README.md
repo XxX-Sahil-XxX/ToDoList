@@ -1,1 +1,2 @@
-# ToDoList
+This to-do list application is built using HTML, CSS, and JavaScript to provide a simple yet effective way to manage tasks. The HTML structure defines the layout, including input fields for adding tasks and a list to display them. CSS is used for styling, ensuring a clean and user-friendly interface.
+This project not only showcases proficiency in front-end development but also demonstrates skills in handling user input, managing data using local storage, and creating interactive web applications. It serves as a practical exercise in implementing fundamental concepts of web development and enhancing user experience.
